@@ -1,4 +1,4 @@
-#exclude<stdio.h>
+#include<stdio.h>
 void merge(int arr[],int lb,int ub,int mid)
 {
      int arr2[100];
